@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenLines", "EvenLines\EvenLines.csproj", "{1EE70D8B-81B5-448F-9E8E-AA18A1816789}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SandBox", "SandBox\SandBox.csproj", "{5BC2E8B1-940D-4962-8D64-5BC2FCB969A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EE70D8B-81B5-448F-9E8E-AA18A1816789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EE70D8B-81B5-448F-9E8E-AA18A1816789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EE70D8B-81B5-448F-9E8E-AA18A1816789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EE70D8B-81B5-448F-9E8E-AA18A1816789}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BC2E8B1-940D-4962-8D64-5BC2FCB969A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BC2E8B1-940D-4962-8D64-5BC2FCB969A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BC2E8B1-940D-4962-8D64-5BC2FCB969A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BC2E8B1-940D-4962-8D64-5BC2FCB969A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBECD721-78EA-4218-B015-32E47DB37C28}
+	EndGlobalSection
+EndGlobal
